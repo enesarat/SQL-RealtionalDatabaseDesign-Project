@@ -1,0 +1,2 @@
+In this project, we designed a detailed database of a system where online voting will be done and integrated the necessary procedures, views, functions, and triggers to ensure system functionality. Assets and units are needed in the system; It is associated with tables and keys and works in conjunction with other functional parts.
+The project was developed with Ms SQL Server. 
